@@ -21,7 +21,7 @@ The project contains the following important files:
 
 ## Dataset
 
-The dataset I used is also uploaded to this repository. However, you are free to generate your own dataset using the **Dataset_Generator.m** file. Be aware that generating the dataset can be time-consuming.
+The dataset I used was too large to upload to this repository. However, you can find some example NumPy arrays that I have used in my dataset. I will continue to look for a way to upload the entire dataset.
 
 ## Important Notes
 
